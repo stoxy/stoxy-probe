@@ -1,4 +1,6 @@
-stoxy-probe
-===========
+Stoxy probes
+============
 
-Checks for Stoxy health
+A collection of health checks for Stoxy server.
+
+basic/ - curl-based checks

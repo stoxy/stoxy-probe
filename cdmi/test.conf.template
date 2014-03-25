@@ -1,0 +1,11 @@
+# Environmnt setup
+cdmiclient=/path/to/cdmiclient.py
+
+# Remote server settings
+BASE_URL=http://cdmi.example.com/storage
+CREDENTIALS=user:password
+
+# Settings for temporary containers and files
+TEST_CONTAINER=cdmi-test-container
+TEST_FILE=cdmi-test-file
+
